@@ -27,17 +27,19 @@ The goals of this project are as follows:
 # Tentative Timeline:
 May 29
 -  LWA login credentials working
--  Get workspace set up on hercules to do tutorials
--  Start working on target selection (need a crash course in interferometer calibrator sources), maybe in Callingham introduction?
+-  Get workspace set up on hercules/cluster to do tutorials
 -  Get TOPCAT installed to retrieve tables of sources
+-  Start working on target selection (need a crash course in interferometer calibrator sources), maybe in Callingham introduction?
+-  Get setup with a coding environment, such as 
 
 June 5th
 -  Practice scheduling an interferometry run (~10-15 minutes, two sources?)
--  Write own code to compare source locations
+-  Write own code to compare source locations, there is a snippet of code above but the files are on my personal machine
+-  Start working through the LWA Jupiter, Solar, and CGP tutorials (make note of what we learned along the way)
 
 June 12th - Spring Quarter ends
 -  Start working on reorganizing the codebase that Savin has created
-
+-  Take a look at what is in the notes folder on the github page and read through the descriptions of the code that is contained within.
 
 June 19th - Week I am gone
 -  First full testing of the pipeline w/ FRB or new data
