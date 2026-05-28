@@ -60,4 +60,5 @@ July 9
 
 --- GOAL July 16th (2 Weeks to go) = DONE with science
 -  finish poster (we'll have to double check what the lead time for printing is w/ Chris)
--  Write up the work and finalize the github project page. 
+-  Write up the work and finalize the github project page.
+-  test
